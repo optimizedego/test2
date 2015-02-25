@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 3 master master 4096 Feb 25 21:25 .
+drwxr-xr-x 4 master master 4096 Feb 25 21:24 ..
+-rw-rw-r-- 1 master master    0 Feb 25 21:25 file1
+drwxrwxr-x 7 master master 4096 Feb 25 21:24 .git
